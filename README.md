@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Hi there, I'm Jayasurya 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jayasurya&style=flat-square)
@@ -78,5 +75,3 @@ Check out my work on my [portfolio website](https://jayasurya.com/portfolio).
 If you like my work, consider buying me a coffee! [Buy Me a Coffee](https://buymeacoffee.com/jayasurya)
 
 ![Footer](https://user-images.githubusercontent.com/XXX/XXX/footer.png)
-
--->
