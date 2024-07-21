@@ -5,11 +5,13 @@
 ## 🚀 About Me
 I'm a passionate full-stack web developer with a knack for creating mesmerizing web experiences. With a strong foundation in both front-end and back-end technologies, I bring ideas to life with code.
 
-- 🔭 I’m currently working on full-stack development projects.
+- 🔭 I’m currently working on full stack development projects.
 - 🌱 I’m currently learning AWS Cloud.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development, JavaScript, or anything tech-related.
 - 📫 How to reach me: [aj.jayasurya@gmail.com](mailto:aj.jayasurya@gmail.com)
+
+<img align="right" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
 
 ## 🛠️ Skills and Technologies
 
@@ -35,6 +37,8 @@ I'm a passionate full-stack web developer with a knack for creating mesmerizing 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
 ## 📈 GitHub Stats
 ![Jayasurya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayasurya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayasurya&layout=compact&theme=radical)
@@ -53,6 +57,8 @@ Here are a few projects I've worked on:
 
 ## 🎨 Portfolio
 Check out my work on my [portfolio website](https://jayasurya.com/portfolio).
+
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
